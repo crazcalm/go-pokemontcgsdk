@@ -1,3 +1,6 @@
+# This project has been moved to [PokemonTCG/pokemon-tcg-sdk-go](https://github.com/PokemonTCG/pokemon-tcg-sdk-go)
+
+
 # go-pokemontcgsdk
 ## Unofficial PokemonTCG Golang SDK
 
